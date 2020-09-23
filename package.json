@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is the solution to the i4g challenge",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "cv",
+    "i4gchallenge",
+    "resume generator"
+  ],
+  "author": "Mudasiru Rasheed",
+  "license": "ISC"
+}
